@@ -1,0 +1,33 @@
+
+shapes:
+
+Center:(4,2)radius:2 Area:12.5664 Circumference:12.5664
+Center:(1,2)radius:2 Area:12.5664 Circumference:12.5664
+Edges of Polygon:
+DirectEdge:(1,2)——(3,2)
+DirectEdge:(3,2)——(3,4)
+DirectEdge:(3,4)——(1,2)
+Area:2 Circumference:6.82843
+Edges of Polygon:
+DirectEdge:(2,2)——(4,2)
+DirectEdge:(4,2)——(4,3)
+DirectEdge:(4,3)——(3,3)
+DirectEdge:(3,3)——(2,2)
+Area:1.5 Circumference:5.41421
+Edges of Polygon:
+DirectEdge:(3,2)——(4,2)
+DirectEdge:(4,2)——(5,6)
+DirectEdge:(5,6)——(3,4)
+DirectEdge:(3,4)——(3,2)
+Area:4 Circumference:9.95153
+
+composieShapes_:
+
+Edges of Polygon:
+ArcEdge: center:(4,2)Point:(2.5,3.32288)  (2.5,0.677124)radian:1.44547
+ArcEdge: center:(1,2)Point:(2.5,0.677124)  (2.5,3.32288)radian:1.44547
+Area:-1 Circumference:5.78187
+Edges of Polygon:
+ArcEdge: center:(4,2)Point:(2.5,3.32288)  (2.5,0.677124)radian:4.83772
+ArcEdge: center:(1,2)Point:(2.5,0.677124)  (2.5,3.32288)radian:4.83772
+Area:-1 Circumference:19.3509
